@@ -1,5 +1,5 @@
-# -*- coding: utf-8 -*-
-# Part of Odoo. See LICENSE file for full copyright and licensing details.
+# Copyright 2024 Invitu SARL
+# License AGPL-3.0 or later (https://www.gnu.org/licenses/agpl.html)
 
 from odoo import fields, models
 
