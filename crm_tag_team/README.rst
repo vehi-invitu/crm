@@ -28,8 +28,8 @@ CRM Tags Sales Team
 
 |badge1| |badge2| |badge3| |badge4| |badge5|
 
-This module allows assigning crm_tags to sales_team, making it easier to
-filter CRM leads.
+This module allows assigning crm tags to sales teams, making them
+filtered in CRM leads.
 
 **Table of contents**
 

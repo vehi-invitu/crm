@@ -1,1 +1,1 @@
-This module allows assigning crm_tags to sales_team, making it easier to filter CRM leads.
+This module allows assigning crm tags to sales teams, making them filtered in CRM leads.
