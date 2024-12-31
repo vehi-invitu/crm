@@ -10,7 +10,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 10.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2017-12-04 15:47+0000\n"
-"PO-Revision-Date: 2024-12-31 10:06+0000\n"
+"PO-Revision-Date: 2024-12-31 13:06+0000\n"
 "Last-Translator: Ömer KÜLAK <omer.kulak@kitayazilim.com>\n"
 "Language-Team: Turkish (https://www.transifex.com/oca/teams/23907/tr/)\n"
 "Language: tr\n"
@@ -303,7 +303,7 @@ msgstr "Açıklama..."
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall__direction
 msgid "Direction"
-msgstr "Arama Yönü"
+msgstr "Çağrı Yönü"
 
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall2phonecall__display_name
@@ -412,7 +412,7 @@ msgstr ""
 #. module: crm_phonecall
 #: model_terms:ir.ui.view,arch_db:crm_phonecall.view_crm_case_phonecalls_filter
 msgid "Incoming Calls"
-msgstr "Gelen Çağrıları"
+msgstr "Gelen Çağrılar"
 
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall__message_is_follower
@@ -456,7 +456,7 @@ msgstr "Çağrı günlüğü"
 #: model:ir.actions.act_window,name:crm_phonecall.crm_case_categ_phone_incoming0
 #: model:ir.ui.menu,name:crm_phonecall.menu_crm_case_phone_inbound
 msgid "Logged Calls"
-msgstr "Kayıtlı Aramalar"
+msgstr "Arama Kayıtları"
 
 #. module: crm_phonecall
 #: model:ir.model.fields.selection,name:crm_phonecall.selection__crm_phonecall__priority__0
@@ -738,7 +738,7 @@ msgstr "Öncelik"
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall__rating_ids
 msgid "Ratings"
-msgstr ""
+msgstr "Oranlar"
 
 #. module: crm_phonecall
 #: model:ir.model.fields,field_description:crm_phonecall.field_crm_phonecall__user_id
@@ -773,7 +773,7 @@ msgstr "Çağrı Programlama"
 #: model:ir.actions.act_window,name:crm_phonecall.phonecall_to_phonecall_act
 #: model_terms:ir.ui.view,arch_db:crm_phonecall.crm_case_inbound_phone_tree_view
 msgid "Schedule Other Call"
-msgstr "Diğer Aramayı Planla"
+msgstr "Arama Planla"
 
 #. module: crm_phonecall
 #: model:ir.model.fields.selection,name:crm_phonecall.selection__crm_phonecall2phonecall__action__schedule
